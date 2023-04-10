@@ -748,9 +748,11 @@ h3.my-profession
         flex: 0 0 100%;
         max-width: 100%;
     }
-    .home .home-img
-    {
-        display: none;
+    .btn{
+        margin: -13px 0 48px 0;
+    }
+    .home .home-img {
+        max-width: 80%;
     }
 }
 @media (max-width:767px)
